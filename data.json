@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Xpulse 200",
+    "image": "https://images.unsplash.com/photo-1609630875171-b1321377ee65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bW90b3JjeWNsZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "rentPerHour": "50",
+    "id": 1,
+    "milage": 45,
+    "type": "Dual Sport",
+    "bookedTimeSlots": []
+  },
+  {
+    "name": "Impulse",
+    "image": "https://images.unsplash.com/photo-1612426131812-7f046e5c9323?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fG1vdG9yY3ljbGVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rentPerHour": "60",
+    "id": 2,
+    "milage": 43,
+    "type": "Dual Sport",
+    "bookedTimeSlots": []
+  },
+  {
+    "name": "KTM 360",
+    "image": "https://images.unsplash.com/photo-1609630875289-22852fa678ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1vdG9yY3ljbGVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rentPerHour": "40",
+    "id": 3,
+    "milage": 35,
+    "type": "Standard / Naked",
+    "bookedTimeSlots": []
+  },
+  {
+    "name": "Yezdi Adventure",
+    "image": "https://images.unsplash.com/photo-1588627541420-fce3f661b779?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW90b3JjeWNsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rentPerHour": "40",
+    "id": 4,
+    "milage": 34,
+    "type": "Retro",
+    "bookedTimeSlots": []
+  },
+  {
+    "name": "Dominor",
+    "image": "https://images.unsplash.com/photo-1591637333184-19aa84b3e01f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG1vdG9yY3ljbGVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rentPerHour": "40",
+    "id": 5,
+    "milage": 40,
+    "type": "Standard",
+    "bookedTimeSlots": []
+  },
+  {
+    "name": "Pulsar",
+    "image": "https://images.unsplash.com/photo-1568772585432-0bcd9add44f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1vdG9yY3ljbGVzJTIwcmFjaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rentPerHour": "60",
+    "id": 6,
+    "milage": 43,
+    "type": "Sports",
+    "bookedTimeSlots": []
+  },
+  {
+    "name": "Husqverna",
+    "image": "https://images.unsplash.com/photo-1582092722992-b2f960bafbfb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1vdG9yY3ljbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "rentPerHour": "40",
+    "id": 7,
+    "milage": 38,
+    "type": "Sports",
+    "bookedTimeSlots": []
+  },
+  {
+    "name": "Jawa",
+    "image": "https://images.unsplash.com/photo-1525394737913-7072174ccfd3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bW90b3JjeWNsZXMlMjByYWNpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "rentPerHour": "40",
+    "id": 8,
+    "milage": 35,
+    "type": "Cruiser",
+    "bookedTimeSlots": []
+  }
+]
